@@ -1,0 +1,3 @@
+,win_rate,ci95,avg_cleared,avg_guesses,no_guess_wins
+Logic + random guess,0.8177,0.0138,0.9477,0.825,0.5903
+Logic + ML guess,0.8797,0.0116,0.9618,1.302,0.5903
